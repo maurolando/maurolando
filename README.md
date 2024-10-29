@@ -2,7 +2,7 @@
 <div style="display: flex"; align-items: center; justify-content: center; text-align: center>
 🎓 Estudiante de la Universidad Nacional de Canindeyú - FACITEC<br>💻 Analista de Sistemas<br>⏳ 21 años<br>🌱 Actualmente aprendiendo Angular<br>💬 Me gusta la programación y el diseño de interfaces<br>⚡ Apasionado por la música
 
-  <img style="width=400px; height= 300px" src='https://media1.tenor.com/m/LI110RV_1N0AAAAd/jellyfish-purple-jellyfish.gif'>
+  <img style="width=400px; height= 250px" src='https://media1.tenor.com/m/LI110RV_1N0AAAAd/jellyfish-purple-jellyfish.gif'>
 
 </div>
 
