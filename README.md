@@ -1,5 +1,7 @@
 # 💫 About Me: 
-<img style="width=25px; height= 25px" src='https://media.tenor.com/9NhTmxr-TzoAAAAi/coffee-less-sleep.gif'>
+<div style="justify-content: center">
+  <img style="width=25px; height= 25px" src='https://media.tenor.com/9NhTmxr-TzoAAAAi/coffee-less-sleep.gif'>
+</div>
 <div style="display: flex"; align-items: center; justify-content: center; text-align: center>
 🎓 Estudiante de la Universidad Nacional de Canindeyú - FACITEC<br>💻 Analista de Sistemas<br>⏳ 22 años<br>🌱 Actualmente aprendiendo Angular<br>💬 Me gusta la programación y el diseño de interfaces
 ⚡ Apasionado por la música
