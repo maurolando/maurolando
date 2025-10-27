@@ -1,5 +1,5 @@
 # 💫 About Me: 
-<div style="justify-content: center">
+<div style="justify-self: center">
   <img style="width=25px; height= 25px" src='https://media.tenor.com/9NhTmxr-TzoAAAAi/coffee-less-sleep.gif'>
 </div>
 <div style="display: flex"; align-items: center; justify-content: center; text-align: center>
