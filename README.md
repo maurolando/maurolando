@@ -3,7 +3,7 @@
   <img style="width=25px; height= 25px; justify-self: center" src='https://media.tenor.com/9NhTmxr-TzoAAAAi/coffee-less-sleep.gif'>
 </div>
 <div style="display: flex; align-items: center; justify-content: center; text-align: center">
-🎓 Egresado de la Universidad Nacional de Canindeyú - FACITEC<br>💻 Analista de Sistemas<br>⏳ 22 años<br>🌱 Actualmente aprendiendo Angular<br>💬 Me gusta la programación y el diseño de interfaces
+🎓 Egresado de la Universidad Nacional de Canindeyú - FACITEC<br>💻 Analista de Sistemas<br>⏳ 23 años<br>🌱 Actualmente aprendiendo Angular<br>💬 Me gusta la programación y el diseño de interfaces
 ⚡ Apasionado por la música
 
   <img style="width=400px; height= 250px; align-items: center" src='https://media1.tenor.com/m/LI110RV_1N0AAAAd/jellyfish-purple-jellyfish.gif'>
