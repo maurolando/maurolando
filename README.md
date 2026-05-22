@@ -1,13 +1,14 @@
-# 💫 About Me: 
-<div style="justify-self: center">
-  <img style="width=25px; height= 25px; justify-self: center" src='https://media.tenor.com/9NhTmxr-TzoAAAAi/coffee-less-sleep.gif'>
-</div>
-<div style="display: flex; align-items: center; justify-content: center; text-align: center">
-🎓 Egresado de la Universidad Nacional de Canindeyú - FACITEC<br>💻 Analista de Sistemas<br>⏳ 23 años<br>🌱 Actualmente aprendiendo Angular<br>💬 Me gusta la programación y el diseño de interfaces
-⚡ Apasionado por la música
+# <p align="center"> Maurolando </p> 
+<p align="center">
+  <img src="https://media.tenor.com/9NhTmxr-TzoAAAAi/coffee-less-sleep.gif" width="250" height="250">
+</p>
 
-  <img style="width=400px; height= 250px; align-items: center" src='https://tenor.com/view/bmw-gif-16428081799743186950'>
-
+<div align="center">
+  🎓 Egresado de la Universidad Nacional de Canindeyú - FACITEC<br>
+  💻 Licenciado en Analisis de Sistemas<br>
+  ⏳ 23 años<br>
+  <br>
+  <img src="https://media1.tenor.com/m/4_xFW27AqAYAAAAC/bmw.gif" width="400" height="450">
 </div>
 
 ## 🌐 Socials:
