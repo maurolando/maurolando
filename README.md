@@ -6,7 +6,7 @@
 🎓 Egresado de la Universidad Nacional de Canindeyú - FACITEC<br>💻 Analista de Sistemas<br>⏳ 23 años<br>🌱 Actualmente aprendiendo Angular<br>💬 Me gusta la programación y el diseño de interfaces
 ⚡ Apasionado por la música
 
-  <img style="width=400px; height= 250px; align-items: center" src='https://media1.tenor.com/m/LI110RV_1N0AAAAd/jellyfish-purple-jellyfish.gif'>
+  <img style="width=400px; height= 250px; align-items: center" src='https://tenor.com/view/bmw-gif-16428081799743186950'>
 
 </div>
 
