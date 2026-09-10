@@ -27,10 +27,9 @@
     <g font-family="Verdana, 'DejaVu Sans', Geneva, sans-serif">
       <text x="54" y="96" font-size="50" font-weight="bold" fill="#f2fbf6" letter-spacing="0.5">maurolando</text>
       <text x="56" y="126" font-size="14" fill="#7be39b" letter-spacing="4.2">ANALISTA DE SISTEMAS &#183; PARAGUAY</text>
-      <text x="56" y="152" font-size="13" fill="#8fb6c9" letter-spacing="0.4">backend con Java &#183; frontend con Angular &#183; el volumen siempre alto</text>
     </g>
 
-    <rect x="54" y="168" width="300" height="2" rx="1" fill="url(#rule)"/>
+    <rect x="54" y="146" width="300" height="2" rx="1" fill="url(#rule)"/>
 
     <g transform="translate(8.6 214)">
       <rect x="-4.5" y="-39.7" width="9" height="39.7" rx="4.5" fill="#2f9e6b">

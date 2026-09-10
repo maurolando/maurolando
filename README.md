@@ -63,46 +63,37 @@ y las noches con playlist larga.
 
 ---
 
-### 🏎️ Garage
+### 🌙 Fuera del código
 
 <table>
   <tr>
-    <td width="33.33%" align="center"><b>BMW</b></td>
-    <td width="33.33%" align="center"><b>Nissan Skyline R34</b></td>
-    <td width="33.33%" align="center"><b>Nissan Silvia</b></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://media1.tenor.com/m/Qd8dmSvZ5VkAAAAC/potkan-drift-bmw.gif" width="260" alt="BMW derrapando"></td>
-    <td align="center"><img src="https://media1.tenor.com/m/xybspsh0hBkAAAAC/gtr-cars.gif" width="260" alt="Nissan Skyline R34"></td>
-    <td align="center"><img src="https://media1.tenor.com/m/OakQHk9st1AAAAAC/sileighty-nissan.gif" width="260" alt="Nissan Silvia derrapando"></td>
+    <td width="50%" align="center">
+      <a href="https://open.spotify.com/user/76084awtdhrn36jen8aa66voy">
+        <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify">
+      </a>
+      <br><br>
+      <a href="https://open.spotify.com/user/76084awtdhrn36jen8aa66voy"><b>Lo que suena mientras programo</b></a>
+      <br>
+      <sub>La playlist es parte del entorno de desarrollo.</sub>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://steamcommunity.com/profiles/76561199379247794/">
+        <img src="https://img.shields.io/badge/Steam-1B2838?style=for-the-badge&logo=steam&logoColor=white" alt="Steam">
+      </a>
+      <br><br>
+      <a href="https://steamcommunity.com/profiles/76561199379247794/"><b>elmarroh</b></a>
+      <br>
+      <sub>Una partida más.</sub>
+    </td>
   </tr>
 </table>
-
----
-
-### 🌙 Fuera del código
-
-<p align="center">
-  <img src="https://img.shields.io/badge/M%C3%BAsica-siempre%20con%20auriculares-0B3B2E?style=for-the-badge&logo=spotify&logoColor=7BE39B&labelColor=0A2342">
-  <img src="https://img.shields.io/badge/Videojuegos-una%20partida%20m%C3%A1s-0B3B2E?style=for-the-badge&logo=steam&logoColor=7BE39B&labelColor=0A2342">
-  <img src="https://img.shields.io/badge/Cactus-en%20el%20escritorio-0B3B2E?style=for-the-badge&labelColor=0A2342">
-</p>
 
 ---
 
 ### 📊 Stats
 
 <p align="center">
-  <img width="880" src="./assets/contrib.svg" alt="Calendario de contribuciones">
-</p>
-
-<p align="center">
-  <img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maurolando&theme=github_dark" alt="Lenguajes por repo">
-  <img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=maurolando&theme=github_dark" alt="Lenguajes por commit">
-</p>
-
-<p align="center">
-  <img width="440" src="https://streak-stats.demolab.com?user=maurolando&hide_border=true&background=0D1117&stroke=1F5A45&ring=7BE39B&fire=4F9CF9&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=7BE39B&sideLabels=CFE8DC&dates=8AA3A0" alt="Racha de contribuciones">
+  <img width="500" src="https://streak-stats.demolab.com?user=maurolando&hide_border=true&background=0D1117&stroke=1F5A45&ring=7BE39B&fire=4F9CF9&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=7BE39B&sideLabels=CFE8DC&dates=8AA3A0" alt="Contribuciones y rachas">
 </p>
 
 ---
