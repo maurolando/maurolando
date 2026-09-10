@@ -65,9 +65,9 @@ y las noches con playlist larga.
 
 ### 🌙 Fuera del código
 
-<table width="100%">
+<table>
   <tr>
-    <td width="50%" align="center">
+    <td width="430" align="center">
       <a href="https://open.spotify.com/user/76084awtdhrn36jen8aa66voy">
         <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify">
       </a>
@@ -76,7 +76,7 @@ y las noches con playlist larga.
       <br>
       <sub>La playlist es parte del entorno de desarrollo.</sub>
     </td>
-    <td width="50%" align="center">
+    <td width="430" align="center">
       <a href="https://steamcommunity.com/profiles/76561199379247794/">
         <img src="https://img.shields.io/badge/Steam-1B2838?style=for-the-badge&logo=steam&logoColor=white" alt="Steam">
       </a>
