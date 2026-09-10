@@ -1,3 +1,19 @@
+"""Genera assets/header.svg, el banner del perfil.
+
+Uso:
+    python3 scripts/banner.py
+
+No necesita dependencias ni red: escribe el SVG directamente. El dibujo es un
+espectro de NBARS barras cuyo perfil de alturas sale de una suma de senos
+(profile()), con el color interpolado a lo largo del eje X por color_at().
+
+Que tocar:
+    GREEN / LIGHT / BLUE  colores del degradado, de izquierda a derecha
+    NBARS, BW             cantidad y ancho de las barras
+    W, H, BASE            tamano del lienzo y linea de piso del espectro
+    el bloque <text>      nombre y subtitulo, al final del archivo
+"""
+
 import math
 
 W, H = 1000, 260
