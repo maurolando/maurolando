@@ -65,7 +65,7 @@ y las noches con playlist larga.
 
 ### 🌙 Fuera del código
 
-<table>
+<table width="100%">
   <tr>
     <td width="50%" align="center">
       <a href="https://open.spotify.com/user/76084awtdhrn36jen8aa66voy">
