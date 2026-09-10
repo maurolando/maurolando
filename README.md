@@ -18,11 +18,10 @@ maurolando@desierto:~$ whoami
   🎓  Licenciado en Análisis de Sistemas — UNICAN / FACITEC
   🧰  Backend en Java + Spring, frontend en Angular
   🌍  Paraguay
-  🌿  Riego cactus con la misma disciplina con la que escribo migraciones
 ```
 
-Me gusta el código que se entiende sin comentarios, los cactus que sobreviven a
-todo, los coches que suenan bien y las noches con playlist larga.
+Me gusta el código que se entiende sin comentarios, los coches que suenan bien
+y las noches con playlist larga.
 
 ---
 
@@ -64,36 +63,37 @@ todo, los coches que suenan bien y las noches con playlist larga.
 
 ---
 
-### 🌙 Fuera del código
+### 🏎️ Garage
 
 <table>
   <tr>
-    <td width="33%" align="center" valign="top">
-      <h4>🚗 Garage</h4>
-      <img src="https://media1.tenor.com/m/4_xFW27AqAYAAAAC/bmw.gif" width="205"><br>
-      <sub>Motor, curva y una ruta vacía de noche.</sub>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <h4>🎧 Música</h4>
-      <br><br>
-      <img src="https://img.shields.io/badge/siempre%20con%20auriculares-0B3B2E?style=for-the-badge&logo=spotify&logoColor=7BE39B"><br><br>
-      <sub>La playlist es parte del entorno de desarrollo.</sub>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <h4>🎮 Videojuegos</h4>
-      <br><br>
-      <img src="https://img.shields.io/badge/una%20partida%20m%C3%A1s-0B3B2E?style=for-the-badge&logo=steam&logoColor=7BE39B"><br><br>
-      <sub>Debuggear y rejugar niveles es lo mismo.</sub>
-    </td>
+    <td width="33.33%" align="center"><b>BMW</b></td>
+    <td width="33.33%" align="center"><b>Nissan Skyline R34</b></td>
+    <td width="33.33%" align="center"><b>Nissan Silvia</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://media1.tenor.com/m/Qd8dmSvZ5VkAAAAC/potkan-drift-bmw.gif" width="260" alt="BMW derrapando"></td>
+    <td align="center"><img src="https://media1.tenor.com/m/xybspsh0hBkAAAAC/gtr-cars.gif" width="260" alt="Nissan Skyline R34"></td>
+    <td align="center"><img src="https://media1.tenor.com/m/OakQHk9st1AAAAAC/sileighty-nissan.gif" width="260" alt="Nissan Silvia derrapando"></td>
   </tr>
 </table>
+
+---
+
+### 🌙 Fuera del código
+
+<p align="center">
+  <img src="https://img.shields.io/badge/M%C3%BAsica-siempre%20con%20auriculares-0B3B2E?style=for-the-badge&logo=spotify&logoColor=7BE39B&labelColor=0A2342">
+  <img src="https://img.shields.io/badge/Videojuegos-una%20partida%20m%C3%A1s-0B3B2E?style=for-the-badge&logo=steam&logoColor=7BE39B&labelColor=0A2342">
+  <img src="https://img.shields.io/badge/Cactus-en%20el%20escritorio-0B3B2E?style=for-the-badge&labelColor=0A2342">
+</p>
 
 ---
 
 ### 📊 Stats
 
 <p align="center">
-  <img width="820" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maurolando&theme=github_dark" alt="Resumen del perfil">
+  <img width="880" src="./assets/contrib.svg" alt="Calendario de contribuciones">
 </p>
 
 <p align="center">
@@ -104,12 +104,6 @@ todo, los coches que suenan bien y las noches con playlist larga.
 <p align="center">
   <img width="440" src="https://streak-stats.demolab.com?user=maurolando&hide_border=true&background=0D1117&stroke=1F5A45&ring=7BE39B&fire=4F9CF9&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=7BE39B&sideLabels=CFE8DC&dates=8AA3A0" alt="Racha de contribuciones">
 </p>
-
-<!--
-  Nota: github-readme-stats.vercel.app esta PAUSADO (Vercel free tier) y devuelve 503.
-  Si vuelve a levantar, esta era la card:
-  https://github-readme-stats.vercel.app/api?username=maurolando&show_icons=true&hide_border=true&bg_color=0D1117&title_color=7BE39B&icon_color=4F9CF9&text_color=CFE8DC
--->
 
 ---
 
