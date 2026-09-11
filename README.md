@@ -72,7 +72,7 @@ y las noches con playlist larga.
         <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify">
       </a>
       <br><br>
-      <a href="https://open.spotify.com/user/76084awtdhrn36jen8aa66voy"><b>Lo que suena mientras programo</b></a>
+      <a href="https://open.spotify.com/playlist/37i9dQZF1CL4a34cDZThEt?si=a24bae158f0246cd"><b>Lo que suena mientras programo</b></a>
       <br>
       <sub>La playlist es parte del entorno de desarrollo.</sub>
     </td>
