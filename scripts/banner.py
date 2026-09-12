@@ -11,10 +11,18 @@ Que tocar:
     GREEN / LIGHT / BLUE  colores del degradado, de izquierda a derecha
     NBARS, BW             cantidad y ancho de las barras
     W, H, BASE            tamano del lienzo y linea de piso del espectro
-    el bloque <text>      nombre y subtitulo, al final del archivo
+    scripts/fontpaths.py  nombre y subtitulo: regenera textpaths.json
 """
 
+import json
 import math
+import os
+
+# Contornos del titulo y el subtitulo, generados por fontpaths.py.
+# Van como path y no como <text> porque GitHub sanea los SVG: la fuente
+# no llegaria al visitante y el texto caeria al fallback del sistema.
+with open(os.path.join(os.path.dirname(os.path.abspath(__file__)), "textpaths.json")) as fh:
+    TEXTOS = json.load(fh)
 
 W, H = 1000, 260
 BASE = 214          # linea del suelo del espectro
@@ -94,12 +102,14 @@ svg = f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {W} {H}" width="{
     {grid}
     <ellipse cx="{W/2}" cy="{BASE}" rx="{W*0.55}" ry="150" fill="url(#halo)"/>
 
-    <g font-family="Verdana, 'DejaVu Sans', Geneva, sans-serif">
-      <text x="54" y="96" font-size="50" font-weight="bold" fill="#f2fbf6" letter-spacing="0.5">maurolando</text>
-      <text x="56" y="126" font-size="14" fill="#7be39b" letter-spacing="4.2">ANALISTA DE SISTEMAS &#183; PARAGUAY</text>
+    <g transform="translate(54 96)" fill="#f2fbf6">
+      <path d="{TEXTOS['titulo']['d']}"/>
+    </g>
+    <g transform="translate(56 130)" fill="#7be39b">
+      <path d="{TEXTOS['subtitulo']['d']}"/>
     </g>
 
-    <rect x="54" y="146" width="300" height="2" rx="1" fill="url(#rule)"/>
+    <rect x="54" y="150" width="330" height="2" rx="1" fill="url(#rule)"/>
 
 {chr(10).join(bars)}
 
@@ -108,5 +118,8 @@ svg = f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {W} {H}" width="{
   </g>
 </svg>
 '''
-open('/home/franco/maurolando-readme/assets/header.svg', 'w').write(svg)
-print("barras:", NBARS, "| bytes:", len(svg))
+destino = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))),
+                       "assets", "header.svg")
+with open(destino, "w") as fh:
+    fh.write(svg)
+print("barras:", NBARS, "| bytes:", len(svg), "->", destino)

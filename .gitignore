@@ -1,0 +1,6 @@
+# Las tipografias del header son de uso personal: se descargan, no se
+# redistribuyen. De donde bajarlas: scripts/fontpaths.py
+assets/fonts/
+
+# Entorno para correr fontpaths.py
+venv/
