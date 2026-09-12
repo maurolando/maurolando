@@ -4,3 +4,8 @@ assets/fonts/
 
 # Entorno para correr fontpaths.py
 venv/
+
+# Previsualizacion local del README: preview.png se regenera desde
+# preview.html, no hace falta versionar el screenshot.
+preview.html
+preview.png
