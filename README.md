@@ -68,18 +68,18 @@ y las noches con playlist larga.
   <tr>
     <td width="430" align="center">
       <a href="https://open.spotify.com/user/76084awtdhrn36jen8aa66voy">
-        <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify">
+        <img src="./assets/card-spotify.png" width="430" alt="Spotify">
       </a>
-      <br><br>
+      <br>
       <a href="https://open.spotify.com/playlist/37i9dQZF1CL4a34cDZThEt?si=a24bae158f0246cd"><b>Lo que suena mientras programo</b></a>
       <br>
       <sub>La playlist es parte del entorno de desarrollo.</sub>
     </td>
     <td width="430" align="center">
       <a href="https://steamcommunity.com/profiles/76561199379247794/">
-        <img src="https://img.shields.io/badge/Steam-1B2838?style=for-the-badge&logo=steam&logoColor=white" alt="Steam">
+        <img src="./assets/card-steam.png" width="430" alt="Steam">
       </a>
-      <br><br>
+      <br>
       <a href="https://steamcommunity.com/profiles/76561199379247794/"><b>elmarroh</b></a>
       <br>
       <sub>Una partida más.</sub>
