@@ -12,13 +12,6 @@
 
 ### 🌵 Sobre mí
 
-```txt
-maurolando@desierto:~$ whoami
-
-  🎓  Licenciado en Análisis de Sistemas — UNICAN / FACITEC
-  🧰  Backend en Java + Spring, frontend en Angular
-```
-
 Me gusta el código que se entiende sin comentarios, los coches que suenan bien
 y las noches con playlist larga.
 

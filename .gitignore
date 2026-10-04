@@ -1,5 +1,5 @@
-# Las tipografias del header son de uso personal: se descargan, no se
-# redistribuyen. De donde bajarlas: scripts/fontpaths.py
+# La tipografia del header se descarga, no se versiona: sus contornos ya
+# viajan en scripts/glyphs.json. De donde bajarla: scripts/fontpaths.py
 assets/fonts/
 
 # Entorno para correr fontpaths.py
